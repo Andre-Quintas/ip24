@@ -56,7 +56,7 @@ public class View {
 	}
 
 	public static void main(String[] args) {
-		View gui = new View(new PositionTrace(10));
-		gui.action();
+		/*View gui = new View(new PositionTrace(10));
+		gui.action();*/
 	}
 }
